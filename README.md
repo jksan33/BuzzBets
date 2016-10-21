@@ -1,6 +1,6 @@
 # IB-CS-IA
 ### Jay Sanders's Internal Assessment for IB Computer Science
-Provides details for both viewpoints on controvesial topics. 
+Provides details for both viewpoints on controvesial topics.  
 -Helps people to cite details or provide statistics during an argument or debate.  
 -Helps people who want to explore a topic more in-depth.  
 -Helps people who want the both sides of the story, not a biased narrative from the mainstream media.
