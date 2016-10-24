@@ -1,6 +1,6 @@
-###617 words (254 for the scenario, 250 for the proposal)
+### Word Count: 617 words (254 for the scenario, 250 for the proposal)
 
-###Success Criteria:
+### Success Criteria:
 
 -It must be intuitive (test on someone unfamiliar with the application/project)
 -It must run of of real-time/real data: based on Google Trends trending searches
