@@ -23,9 +23,10 @@ I will be working in HTML5 and CSS3 for the frontend, perhaps on the Skel framew
     -Graphs of past performance  
    
     -Percentage gained/lost  
--Related news articles  
+    
+    -Related news articles  
 
-    -It must have “Explore,” “Watchlist,” and “Portfolio” tabs.  
+-It must have “Explore,” “Watchlist,” and “Portfolio” tabs.  
   
     -With the ability to search for specific terms in the “Explore” tab  
   
