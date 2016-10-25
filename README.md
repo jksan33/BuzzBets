@@ -1,6 +1,6 @@
-# IB-CS-IA
-### Jay Sanders's Internal Assessment for IB Computer Science
-##### Application that lets users "bet" on the popularity of trending Google searches
+# BuzzBets
+### Application that lets users "bet" on the popularity of trending Google searches
+##### Jay Sanders's Internal Assessment for IB Computer Science
 
 #### The Scenario:
 
