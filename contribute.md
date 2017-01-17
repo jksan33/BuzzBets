@@ -1,4 +1,5 @@
 # To Contribute
-### Please submit ideas or features on this document
--Graphs
+### Please submit ideas for improvement to this document
+
+-Graphs    
 -Multiple Tabs
