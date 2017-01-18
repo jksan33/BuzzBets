@@ -15,7 +15,7 @@ I will be working in HTML5 and CSS3 for the frontend, perhaps on the Skel framew
 
 #### Success Criteria for the Internal Assessment
 -It must be intuitive (test on someone unfamiliar with the application/project)  
--It must run of of real-time/real data: based on Google Trends trending searches  
+-It must run off of real-time/real data: based on Google Trends trending searches  
 -It must allow users to “buy” and “sell” “shares” of search terms  
 -It must show the user the performance of their portfolio over time  
 -It must allow users to see “more details” on specific search terms such as:  
